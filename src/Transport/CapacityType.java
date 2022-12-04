@@ -1,5 +1,4 @@
 package Transport;
-
 public enum CapacityType {
     ESPECIALLY_SMALL (1,10),
     SMALL (10,25),
